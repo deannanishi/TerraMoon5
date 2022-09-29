@@ -1,14 +1,15 @@
 html {
     background: #0000;
-    background-image: url(./screenshots/SpaceGalaxy.jpg);
+    
+}
+
+body {
+   background-image: url(./screenshots/SpaceGalaxy.jpg);
     background-size: 140%;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: top;
-}
-
-body {
-   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 16px;
 }
 
