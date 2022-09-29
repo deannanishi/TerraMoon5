@@ -1,5 +1,5 @@
 html {
-     background-color: #0000;
+    background-color: #0000;
     background-image: url(./screenshots/SpaceGalaxy.jpg);
     background-size: auto;
     background-repeat: no-repeat;
@@ -19,7 +19,6 @@ a {
 
 
 img {
-    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
     background: transparent;
     display: block;
     margin: 1.3em auto;
