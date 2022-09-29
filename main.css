@@ -4,7 +4,7 @@ html {
 }
 
 body {
-   background-image: url(./screenshots/SpaceGalaxy.jpg);
+   background-image: url(../screenshots/SpaceGalaxy.jpg);
     background-size: 140%;
     background-repeat: no-repeat;
     background-attachment: fixed;
