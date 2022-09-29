@@ -1,0 +1,26 @@
+html {
+    background: #0000;
+    background-image: url(../screenshots/SpaceGalaxy.jpg);
+    background-size: 140%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top;
+}
+
+body {
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+}
+
+a {
+
+}
+
+
+img {
+    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 100%;
+}
