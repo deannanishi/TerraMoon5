@@ -21,6 +21,6 @@ a {
 img {
     background: transparent;
     display: block;
-    margin: 1.3em auto;
+    margin: auto;
     max-width: 100%;
 }
