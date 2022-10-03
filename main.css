@@ -22,4 +22,5 @@ img {
     background: transparent;
     display: block;
     margin: auto;
+    max-width: 100%;
 }
