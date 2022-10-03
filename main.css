@@ -53,7 +53,7 @@ img {
 
 .footer-clean ul a:hover {
   color: #ffc848;
-  text-shadow: 2px 2px #ffa248;
+  box-shadow: 1px 1px 2px #ff9000, 0 0 25px #ff4e00, 0 0 5px #ffe400;
 }
 
 .footer-clean .item.social {
@@ -90,7 +90,7 @@ img {
 
 .footer-clean .item.social > a:hover {
   color: #ffc848;
-  text-shadow: 2px 2px #ffa248;
+  box-shadow: 1px 1px 2px #ff9000, 0 0 25px #ff4e00, 0 0 5px #ffe400;
 }
 
 @media (max-width:991px) {
