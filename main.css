@@ -27,7 +27,7 @@ img {
 .footer-clean {
   padding:50px 0;
   background-color:#000000;
-  color:#ffff;
+  color:ffffff;
 }
 
 .footer-clean h3 {
@@ -46,7 +46,7 @@ img {
 }
 
 .footer-clean ul a {
-  color:#ffff;
+  color:#ffffff;
   text-decoration:none;
 }
 
@@ -83,7 +83,7 @@ img {
   border:1px solid #ccc;
   margin-left:10px;
   margin-top:22px;
-  color:inherit;
+  color:#ffffff;
 }
 
 .footer-clean .item.social > a:hover {
