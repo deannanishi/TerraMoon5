@@ -54,7 +54,12 @@ img {
 .footer-clean .item.social {
   text-align:right;
 }
-
+.smallscreen {
+      display:none;
+ }
+  .widescreen {
+      display:block;
+ }
 @media (max-width:767px) {
   .footer-clean .item {
     text-align:center;
@@ -110,11 +115,6 @@ img {
     margin-top:10px;
   }
 }
-@media (min-width: 768px) {
-  
-  .smallscreen {
-      display:none;
-  }
 
 .footer-clean .copyright {
   margin-top:14px;
