@@ -115,6 +115,9 @@ img {
   .smallscreen {
       display: block;
   }
+  .mobilescreen {
+      display: none;
+ }
 }
 
 @media (max-width:767px) {
