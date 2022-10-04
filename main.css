@@ -66,12 +66,6 @@ img {
   .footer-clean .item.social {
     text-align:center;
   }
-  .smallscreen {
-      display:block;
-  }
-  .widescreen {
-      display:none;
-  }
 }
 
 .footer-clean .item.social > a {
@@ -98,10 +92,10 @@ img {
     margin-top:40px;
       }
   .widescreen {
-      display: block;
+      display: none;
   }
   .smallscreen {
-      display: none;
+      display: block;
   }
 }
 
@@ -120,6 +114,6 @@ img {
 .smallscreen {
       display:none;
  }
- .widescreen {
+.widescreen {
       display:block;
  }
