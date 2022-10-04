@@ -54,6 +54,9 @@ img {
 .footer-clean .item.social {
   text-align:right;
 }
+.mobilescreen {
+      display:none;
+ }
 .smallscreen {
       display:none;
  }
@@ -71,6 +74,16 @@ img {
   .footer-clean .item.social {
     text-align:center;
   }
+  .widescreen {
+      display: none;
+  }
+  .mobilescreen {
+      display: block;
+ }
+  .smallscreen {
+      display: none;
+  }
+}
 }
 
 .footer-clean .item.social > a {
@@ -99,6 +112,9 @@ img {
   .widescreen {
       display: none;
   }
+  .mobilescreen {
+      display:none;
+ }
   .smallscreen {
       display: block;
   }
