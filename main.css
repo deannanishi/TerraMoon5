@@ -54,12 +54,7 @@ img {
 .footer-clean .item.social {
   text-align:right;
 }
-.smallscreen {
-      display:none;
- }
-  .widescreen {
-      display:block;
- }
+
 @media (max-width:767px) {
   .footer-clean .item {
     text-align:center;
@@ -122,3 +117,9 @@ img {
   font-size:13px;
   opacity:0.8;
 }
+.smallscreen {
+      display:none;
+ }
+ .widescreen {
+      display:block;
+ }
