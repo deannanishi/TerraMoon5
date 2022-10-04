@@ -74,15 +74,7 @@ img {
   .footer-clean .item.social {
     text-align:center;
   }
-  .widescreen {
-      display: none;
-  }
-  .mobilescreen {
-      display: block;
- }
-  .smallscreen {
-      display: none;
-  }
+  
 }
 }
 
@@ -123,6 +115,15 @@ img {
 @media (max-width:767px) {
   .footer-clean .item.social > a {
     margin-top:10px;
+  }
+  .widescreen {
+      display: none;
+  }
+  .mobilescreen {
+      display: block;
+ }
+  .smallscreen {
+      display: none;
   }
 }
 
