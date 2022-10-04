@@ -108,17 +108,17 @@ img {
   .footer-clean .item.social > a {
     margin-top:40px;
       }
-}
-
-@media (max-width:767px) {
-  .footer-clean .item.social > a {
-    margin-top:10px;
-  }
   .mobilescreen {
       display: block;
  }
   .smallscreen {
       display: none;
+  }
+}
+
+@media (max-width:767px) {
+  .footer-clean .item.social > a {
+    margin-top:10px;
   }
 }
 
