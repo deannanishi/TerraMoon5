@@ -112,9 +112,6 @@ img {
   .widescreen {
       display: none;
   }
-  .mobilescreen {
-      display:none;
- }
   .smallscreen {
       display: block;
   }
