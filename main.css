@@ -106,18 +106,12 @@ img {
   }
   .smallscreen {
       display: block;
-  }
-  .mobilescreen {
-      display: none;
- }
+      }
 }
 
 @media (max-width:767px) {
   .footer-clean .item.social > a {
     margin-top:10px;
-  }
-  .widescreen {
-      display: none;
   }
   .mobilescreen {
       display: block;
