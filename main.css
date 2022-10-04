@@ -101,12 +101,12 @@ img {
 @media (max-width:991px) {
   .footer-clean .item.social > a {
     margin-top:40px;
+      }
+  .widescreen {
+      display: block;
   }
   .smallscreen {
-      display:none;
-  }
-  .widescreen {
-      display:block;
+      display: none;
   }
 }
 
