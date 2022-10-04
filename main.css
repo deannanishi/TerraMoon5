@@ -71,6 +71,12 @@ img {
   .footer-clean .item.social {
     text-align:center;
   }
+  .smallscreen {
+      display:block;
+  }
+  .widescreen {
+      display:none;
+  }
 }
 
 .footer-clean .item.social > a {
@@ -95,6 +101,12 @@ img {
 @media (max-width:991px) {
   .footer-clean .item.social > a {
     margin-top:40px;
+  }
+  .smallscreen {
+      display:none;
+  }
+  .widescreen {
+      display:block;
   }
 }
 
