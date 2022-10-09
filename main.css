@@ -104,7 +104,7 @@ img {
       display: block;
       }
 }
-@media (max-width:991px) {
+@media (max-width:791px) {
   .footer-clean .item.social > a {
     margin-top:40px;
       }
